@@ -5,6 +5,7 @@ public class Estudiante {
     double promedio;
     int eva1, eva2, eva3;
     String asignatura;
+    String apellido;
 
     public Estudiante(String nombre, double promedio, int eva1, int eva2, int eva3) {
         this.nombre = nombre;
